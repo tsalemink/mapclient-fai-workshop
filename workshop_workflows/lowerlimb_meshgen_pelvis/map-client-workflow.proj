@@ -108,10 +108,10 @@ nodelist\12\connections\1\connectedFromIndex=2
 nodelist\12\connections\1\connectedTo=3
 nodelist\12\connections\1\connectedToIndex=1
 nodelist\12\connections\1\selected=false
-nodelist\14\source_uri=https://github.com/mapclient-plugins/pointwiserigidregistrationstep/archive/v1.0.0.zip
+nodelist\14\source_uri=https://github.com/mapclient-plugins/pointwiserigidregistrationstep/archive/v1.0.1.zip
 nodelist\4\source_uri=https://github.com/mapclient-plugins/polygonserialiserstep/archive/v1.0.0.zip
-nodelist\5\source_uri=https://github.com/mapclient-plugins/fieldworklowerlimb2sidegenerationstep/archive/v1.0.2.zip
-nodelist\3\source_uri=https://github.com/mapclient-plugins/trcsourcestep/archive/master.zip
+nodelist\5\source_uri=https://github.com/mapclient-plugins/fieldworklowerlimb2sidegenerationstep/archive/v1.0.3.zip
+nodelist\3\source_uri=https://github.com/mapclient-plugins/trcsourcestep/archive/v0.1.1.zip
 nodelist\3\connections\1\connectedFromIndex=0
 nodelist\3\connections\1\connectedTo=6
 nodelist\3\connections\1\connectedToIndex=0
@@ -180,3 +180,8 @@ nodelist\11\connections\3\connectedFromIndex=2
 nodelist\11\connections\3\connectedTo=0
 nodelist\11\connections\3\connectedToIndex=0
 nodelist\11\connections\3\selected=false
+
+[view]
+scale=1
+rect=@Variant(\0\0\0\x14@$\0\0\0\0\0\0@$\0\0\0\0\0\0@\x93X\0\0\0\0\0@\x86\xd0\0\0\0\0\0)
+transform=@Variant(\0\0\0Q?\xf0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0?\xf0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0?\xf0\0\0\0\0\0\0)
